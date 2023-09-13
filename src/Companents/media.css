@@ -38,4 +38,32 @@
         display: flex;
         flex-direction: column;
     }
+    .AbouthContent{
+        width: 100%;
+    }
+    .contentSide{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        row-gap: 4.1rem;
+    }
+    .leftSide{
+        width: 100%;
+    }
+    .leftSide img{
+        width: 100%;
+    }
+    .rightSide{
+        width: 100%;
+        background-image: url("../../public/drink-2029520_1280.png");
+        background-position: top;
+        background-repeat: no-repeat;
+        background-position-y: center;
+        background-size: contain;
+    }
+    .rightSideText{
+        width: 100%;
+        background-color: rgba(75, 72, 72, 0.5);
+        color: #fff;
+    }
 }

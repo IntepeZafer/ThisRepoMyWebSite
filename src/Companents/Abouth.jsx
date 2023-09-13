@@ -13,5 +13,4 @@ function Abouth() {
         </div>
      );
 }
-
 export default Abouth;
